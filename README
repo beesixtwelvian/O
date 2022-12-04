@@ -1,1 +1,5 @@
 README
+This script aims to offer a python tool to compute data from a .sam file,
+more specifically count the number of reads satisfying specific conditions according to their FLAG.
+SAM file formats documentation URLs are given in the script.
+It is a student work, reusable, but not intended for professional use.
